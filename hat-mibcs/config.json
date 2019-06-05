@@ -1,10 +1,10 @@
 {
   "name": "HAT: MIBCS",
-  "version": "0.33",
+  "version": "0.34",
   "slug": "hat-mibcs",
   "url": "https://www.github.com/dennis/hat/",
   "description": "Integration with Xiaomi MIBCS",
-  "arch": ["amd64"],
+  "arch": ["amd64", "armhf"],
   "startup": "before",
   "boot": "auto",
   "full_access": true,
