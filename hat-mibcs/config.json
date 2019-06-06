@@ -1,6 +1,6 @@
 {
   "name": "HAT: MIBCS",
-  "version": "0.34",
+  "version": "0.35",
   "slug": "hat-mibcs",
   "url": "https://www.github.com/dennis/hat/",
   "description": "Integration with Xiaomi MIBCS",
